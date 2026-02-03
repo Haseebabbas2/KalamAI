@@ -186,5 +186,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ and AI
+  Made by Haseeb Abbas
 </p>
